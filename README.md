@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GustavoMass
-- 👀 I’m interested in new learning and work experiences 
-- 🌱 I’m currently learning Python, I'm a freshman at a software engineer course
+- 👀 I’m interested in Bitcoin and web3
+- 🌱 I've a degree in software engineering and experience with React, .NET, SQL and Python. 
 - 💞️ I’m looking to collaborate on any projects involving blockchain
 - 📫 How to reach me --> email: gmxirimba@gmail.com
 
